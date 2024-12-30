@@ -1,0 +1,14 @@
+{ "columns":11,
+ "image":"fantasy-terrain.png",
+ "imageheight":306,
+ "imagewidth":378,
+ "margin":0,
+ "name":"fantasy-terrain",
+ "spacing":0,
+ "tilecount":99,
+ "tiledversion":"1.11.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
